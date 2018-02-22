@@ -16,6 +16,6 @@ From the experiments we found LSTM based model to be performing better than ARIM
 
 The model outputs the next price. It also does a computation based on the threshold set in the code (this is fed from the settings file).
 
-The information about the time stamp, predicted price, current real price and buy/sell decision is then written into a MySQL and NoSQL-MongoDB.
+The information about the time stamp, predicted price, current real price and buy/sell decision is then written into a MySQL and NoSQL-MongoDB(bitcoin11.py, bitdata2.csv and barchart9.html)
 
 Part 3: Visualization:- Tableau, R and Google charts.
